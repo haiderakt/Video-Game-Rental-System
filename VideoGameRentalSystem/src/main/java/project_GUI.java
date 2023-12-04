@@ -88,7 +88,7 @@ public class project_GUI extends JFrame{
         
         
 
-        
+        super.setVisible(true);
         
         
         
